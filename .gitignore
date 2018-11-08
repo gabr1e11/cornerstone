@@ -1,0 +1,67 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.tlog
+*.idb
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+msvc/Worktest.vcxproj.user
+msvc/Release/vc141.pdb
+msvc/Release/Worktest.log
+msvc/Release/Worktest.Build.CppClean.log
+msvc/Debug/vc141.pdb
+msvc/Debug/Worktest.log
+msvc/.vs/Worktest/v15/Browse.VC.db
+msvc/.vs/Worktest/v15/.suo
+bin/Worktest.pdb
+bin/Worktest.ipdb
+bin/Worktest.iobj
+bin/Worktest.ilk
+.vs/Worktest/v15/ipch/AutoPCH/f30f88f06caf093e/GAMEOBJECT.ipch
+.vs/Worktest/v15/ipch/AutoPCH/cec6db9154b3851b/SCENE.ipch
+.vs/Worktest/v15/ipch/AutoPCH/c7f1537dc278e309/GAMEOBJECTFACTORY.ipch
+.vs/Worktest/v15/ipch/AutoPCH/c393e4b70fa14a3b/MATCH3MAINSCENE.ipch
+.vs/Worktest/v15/ipch/AutoPCH/b95ba5a75c9cdcfe/SPRITERENDERER.ipch
+.vs/Worktest/v15/ipch/AutoPCH/a4f843d13e038d14/MATCH3BOARD.ipch
+.vs/Worktest/v15/ipch/AutoPCH/5316b2241511e2aa/ENGINEOWNER.ipch
+.vs/Worktest/v15/ipch/AutoPCH/3bbd2e6fb7423cbc/GAMECOMPONENT.ipch
+.vs/Worktest/v15/ipch/AutoPCH/31ff12b4b3c78b49/MATCH3UTILS.ipch
+.vs/Worktest/v15/ipch/AutoPCH/2a8b0b495f45843b/MATCH3MAINSCENE.ipch
+.vs/Worktest/v15/ipch/AutoPCH/28906bca37448714/MATCH3BOARD.ipch
+.vs/Worktest/v15/ipch/AutoPCH/165a4009bca29e2e/UTILS.ipch
+.vs/Worktest/v15/Browse.VC.opendb
+.vs/Worktest/v15/Browse.VC.db
+.vs/Worktest/v15/.suo
+*.ipch
+*.log
+.vs/
+bin/
